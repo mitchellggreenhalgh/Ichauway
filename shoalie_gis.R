@@ -65,7 +65,7 @@ flint_cleaned <- cleanup(flint_network)
 #       - Insert vertices? Yes (makes the fish locations more accurate along the river)
 #       - Minimum distance (meters) to use: 200  # Change this to be 10 or 50 if you want more accurate snapping when adding fish location data
 #       - River mouth segment: 3
-#       - River mouth vertex: 337
+#       - River mouth vertex: 19
 #       - Remove additional segments? No
 #       - Build segment routes? Yes
 
